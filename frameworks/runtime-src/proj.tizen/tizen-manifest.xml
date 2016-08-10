@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="wolf" version="1.0.0">
+    <ui-application appid="wolf" exec="hellolua" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+        <icon>WolfGame.png</icon>
+        <label>WolfGame</label>
+	</ui-application>
+</manifest>
